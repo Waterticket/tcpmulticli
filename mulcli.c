@@ -1017,7 +1017,7 @@ int main(int argc, char *argv[])
 
                         else
                         {
-                            printf("%d (%s) is not an existing client.\n> ", req_to, client_data[req_to].nick);
+                            printf("%d is not an existing client.\n> ", req_to);
                             fflush(0);
                         }
                     }
