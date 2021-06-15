@@ -774,9 +774,9 @@ void firstScene()//First Scene->메인화면 출력
 	//유저리스트 받아서 적는부분
 
 	//
-	for (int i = 0; i < 3; i++) printf("\r\n");
-	printf("<Group chatting>\n");
-	printf("- 그룹채팅 사용방법 : c(채널번호)      ex)c12 : 12번 채널\r\n");
+	// for (int i = 0; i < 3; i++) printf("\r\n");
+	// printf("<Group chatting>\n");
+	// printf("- 그룹채팅 사용방법 : c(채널번호)      ex)c12 : 12번 채널\r\n");
 	for (int i = 0; i < 3; i++) printf("\r\n");
 	printf("=======================================================================================\r\n");
 }
